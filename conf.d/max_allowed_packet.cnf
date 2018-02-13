@@ -1,0 +1,4 @@
+[mysqld]
+
+#packet too large
+max_allowed_packet = 64M
